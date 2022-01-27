@@ -1,0 +1,11 @@
+{
+    "code":200,
+    "message":"success",
+    "data":{
+        "items":[
+            {"name":"lucy","age":20},
+            {"name":"mary","age":30},
+            {"name":"jack","age":18}
+        ]
+    }
+}
